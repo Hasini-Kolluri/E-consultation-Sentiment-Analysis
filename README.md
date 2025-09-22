@@ -7,13 +7,10 @@ The app predicts sentiment (Positive, Neutral, Negative) for each review and vis
 
 ## 📊 Dataset  
 - Input: CSV file with reviews  
-- Sample dataset included in the app for quick testing  
-- Columns:  
-  - `review_id`  
-  - `review_text`  
+- Sample dataset included in the app for quick testing
 - Output: Annotated CSV with predicted sentiment labels and scores  
 
----
+--
 
 ## 🚀 Technologies Used  
 - Python  
